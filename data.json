@@ -1,0 +1,76 @@
+{
+  "rooms": {
+    "ava_bedroom": {
+      "friendly_name": "Ava Bedroom Sensor",
+      "humidity": 56.64,
+      "temperature": 19.83
+    },
+    "downstairs_toilet": {
+      "friendly_name": "Downstairs Toilet Sensor",
+      "humidity": 68.77,
+      "temperature": 22
+    },
+    "govee": {
+      "friendly_name": "Govee Sensor",
+      "humidity": 80.1,
+      "temperature": 18
+    },
+    "guest_bathroom": {
+      "friendly_name": "Guest Bathroom Sensor",
+      "humidity": 59.76,
+      "temperature": 18.71
+    },
+    "guest_bedroom": {
+      "friendly_name": "Guest Bedroom Sensor",
+      "humidity": 57.97,
+      "temperature": 18.61
+    },
+    "heatmiser_neostat_wifi_current_temperature": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 19.1
+    },
+    "heatmiser_neostat_wifi_current_temperature_2": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 20.8
+    },
+    "heatmiser_neostat_wifi_current_temperature_3": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 20.1
+    },
+    "heatmiser_neostat_wifi_current_temperature_4": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 18.7
+    },
+    "kitchen": {
+      "friendly_name": "Kitchen Sensor",
+      "humidity": 67.05,
+      "temperature": 17.87
+    },
+    "lounge": {
+      "friendly_name": "Lounge Sensor",
+      "humidity": 57.16,
+      "temperature": 19.96
+    },
+    "main_bathroom": {
+      "friendly_name": "Main Bathroom Sensor",
+      "humidity": 68.53,
+      "temperature": 20.62
+    },
+    "master_bedroom": {
+      "friendly_name": "Master Bedroom Sensor",
+      "humidity": 55.5,
+      "temperature": 19.35
+    },
+    "office": {
+      "friendly_name": "First Air Quality Monitor",
+      "humidity": 53,
+      "temperature": 20.5
+    },
+    "snug": {
+      "friendly_name": "Snug Sensor",
+      "humidity": 57.1,
+      "temperature": 18.64
+    }
+  },
+  "updated": "2026-10-10T16:26:57.454Z"
+}
