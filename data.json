@@ -1,0 +1,60 @@
+{
+  "rooms": {
+    "ava_bedroom": {
+      "friendly_name": "Ava Bedroom Sensor",
+      "humidity": 55.82,
+      "temperature": 19.06
+    },
+    "downstairs_toilet": {
+      "friendly_name": "Downstairs Toilet Sensor",
+      "humidity": 61.81,
+      "temperature": 19.73
+    },
+    "govee": {
+      "friendly_name": "Govee Sensor",
+      "humidity": 58,
+      "temperature": 17.6
+    },
+    "guest_bathroom": {
+      "friendly_name": "Guest Bathroom Sensor",
+      "humidity": 55.37,
+      "temperature": 19.01
+    },
+    "guest_bedroom": {
+      "friendly_name": "Guest Bedroom Sensor",
+      "humidity": 56.48,
+      "temperature": 18.2
+    },
+    "kitchen": {
+      "friendly_name": "Kitchen Sensor",
+      "humidity": 58.64,
+      "temperature": 17.59
+    },
+    "lounge": {
+      "friendly_name": "Lounge Sensor",
+      "humidity": 46.27,
+      "temperature": 20.12
+    },
+    "main_bathroom": {
+      "friendly_name": "Main Bathroom Sensor",
+      "humidity": 58.93,
+      "temperature": 18.04
+    },
+    "master_bedroom": {
+      "friendly_name": "Master Bedroom Sensor",
+      "humidity": 54.09,
+      "temperature": 19.13
+    },
+    "office": {
+      "friendly_name": "First Air Quality Monitor",
+      "humidity": 48,
+      "temperature": 20.75
+    },
+    "snug": {
+      "friendly_name": "Snug Sensor",
+      "humidity": 50.33,
+      "temperature": 19.44
+    }
+  },
+  "updated": "2026-03-14T22:41:03.557Z"
+}
