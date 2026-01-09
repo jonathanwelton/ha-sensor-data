@@ -1,0 +1,71 @@
+{
+  "rooms": {
+    "ava_bedroom": {
+      "friendly_name": "Ava Bedroom Sensor",
+      "humidity": 53.32,
+      "temperature": 19.46
+    },
+    "downstairs_toilet": {
+      "friendly_name": "Downstairs Toilet Sensor",
+      "humidity": 60.18,
+      "temperature": 19.38
+    },
+    "govee": {
+      "friendly_name": "Govee Sensor",
+      "humidity": 70.4,
+      "temperature": 19.2
+    },
+    "guest_bathroom": {
+      "friendly_name": "Guest Bathroom Sensor",
+      "humidity": 52.73,
+      "temperature": 19.81
+    },
+    "guest_bedroom": {
+      "friendly_name": "Guest Bedroom Sensor",
+      "humidity": 53.38,
+      "temperature": 19.27
+    },
+    "heatmiser_neostat_wifi_current_temperature": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 21.1
+    },
+    "heatmiser_neostat_wifi_current_temperature_2": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 21.5
+    },
+    "heatmiser_neostat_wifi_current_temperature_3": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 20.6
+    },
+    "heatmiser_neostat_wifi_current_temperature_4": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 21.1
+    },
+    "kitchen": {
+      "friendly_name": "Kitchen Sensor",
+      "humidity": 56.84,
+      "temperature": 19.52
+    },
+    "lounge": {
+      "friendly_name": "Lounge Sensor",
+      "humidity": 50.34,
+      "temperature": 20.61
+    },
+    "main_bathroom": {
+      "friendly_name": "Main Bathroom Sensor",
+      "humidity": 68.53,
+      "temperature": 20.62
+    },
+    "master_bedroom": {
+      "friendly_name": "Master Bedroom Sensor",
+      "humidity": 53.05,
+      "temperature": 19.06
+    },
+    "snug": {
+      "friendly_name": "Snug Sensor",
+      "humidity": 51.57,
+      "temperature": 19.76
+    }
+  },
+  "updated": "2026-11-21T21:41:07.434Z"
+}
