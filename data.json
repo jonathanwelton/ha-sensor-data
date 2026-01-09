@@ -1,0 +1,76 @@
+{
+  "rooms": {
+    "ava_bedroom": {
+      "friendly_name": "Ava Bedroom Sensor",
+      "humidity": 55.26,
+      "temperature": 19.22
+    },
+    "downstairs_toilet": {
+      "friendly_name": "Downstairs Toilet Sensor",
+      "humidity": 62.8,
+      "temperature": 19.28
+    },
+    "govee": {
+      "friendly_name": "Govee Sensor",
+      "humidity": 71.6,
+      "temperature": 18.8
+    },
+    "guest_bathroom": {
+      "friendly_name": "Guest Bathroom Sensor",
+      "humidity": 52.94,
+      "temperature": 20.49
+    },
+    "guest_bedroom": {
+      "friendly_name": "Guest Bedroom Sensor",
+      "humidity": 57.41,
+      "temperature": 18.77
+    },
+    "heatmiser_neostat_wifi_current_temperature": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 20.1
+    },
+    "heatmiser_neostat_wifi_current_temperature_2": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 21.4
+    },
+    "heatmiser_neostat_wifi_current_temperature_3": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 20.8
+    },
+    "heatmiser_neostat_wifi_current_temperature_4": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 20.7
+    },
+    "kitchen": {
+      "friendly_name": "Kitchen Sensor",
+      "humidity": 53.21,
+      "temperature": 18.74
+    },
+    "lounge": {
+      "friendly_name": "Lounge Sensor",
+      "humidity": 52.49,
+      "temperature": 19.54
+    },
+    "main_bathroom": {
+      "friendly_name": "Main Bathroom Sensor",
+      "humidity": 68.53,
+      "temperature": 20.62
+    },
+    "master_bedroom": {
+      "friendly_name": "Master Bedroom Sensor",
+      "humidity": 55.11,
+      "temperature": 19.06
+    },
+    "office": {
+      "friendly_name": "First Air Quality Monitor",
+      "humidity": 51,
+      "temperature": 20
+    },
+    "snug": {
+      "friendly_name": "Snug Sensor",
+      "humidity": 49.62,
+      "temperature": 19.79
+    }
+  },
+  "updated": "2026-11-14T22:45:29.849Z"
+}
