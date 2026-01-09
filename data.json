@@ -1,0 +1,76 @@
+{
+  "rooms": {
+    "ava_bedroom": {
+      "friendly_name": "Ava Bedroom Sensor",
+      "humidity": 60.28,
+      "temperature": 20.44
+    },
+    "downstairs_toilet": {
+      "friendly_name": "Downstairs Toilet Sensor",
+      "humidity": 69.35,
+      "temperature": 20.28
+    },
+    "govee": {
+      "friendly_name": "Govee Sensor",
+      "humidity": 79.4,
+      "temperature": 19.6
+    },
+    "guest_bathroom": {
+      "friendly_name": "Guest Bathroom Sensor",
+      "humidity": 50.69,
+      "temperature": 22.24
+    },
+    "guest_bedroom": {
+      "friendly_name": "Guest Bedroom Sensor",
+      "humidity": 55.83,
+      "temperature": 20.7
+    },
+    "heatmiser_neostat_wifi_current_temperature": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 20.5
+    },
+    "heatmiser_neostat_wifi_current_temperature_2": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 22.2
+    },
+    "heatmiser_neostat_wifi_current_temperature_3": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 21.2
+    },
+    "heatmiser_neostat_wifi_current_temperature_4": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 20.9
+    },
+    "kitchen": {
+      "friendly_name": "Kitchen Sensor",
+      "humidity": 64.38,
+      "temperature": 19.93
+    },
+    "lounge": {
+      "friendly_name": "Lounge Sensor",
+      "humidity": 57.57,
+      "temperature": 20.92
+    },
+    "main_bathroom": {
+      "friendly_name": "Main Bathroom Sensor",
+      "humidity": 68.53,
+      "temperature": 20.62
+    },
+    "master_bedroom": {
+      "friendly_name": "Master Bedroom Sensor",
+      "humidity": 58.52,
+      "temperature": 20.27
+    },
+    "office": {
+      "friendly_name": "First Air Quality Monitor",
+      "humidity": 51,
+      "temperature": 21.75
+    },
+    "snug": {
+      "friendly_name": "Snug Sensor",
+      "humidity": 58.84,
+      "temperature": 20.24
+    }
+  },
+  "updated": "2026-10-17T22:09:38.390Z"
+}
