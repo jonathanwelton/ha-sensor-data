@@ -1,0 +1,76 @@
+{
+  "rooms": {
+    "ava_bedroom": {
+      "friendly_name": "Ava Bedroom Sensor",
+      "humidity": 61.18,
+      "temperature": 21.79
+    },
+    "downstairs_toilet": {
+      "friendly_name": "Downstairs Toilet Sensor",
+      "humidity": 66.21,
+      "temperature": 21.92
+    },
+    "govee": {
+      "friendly_name": "Govee Sensor",
+      "humidity": 75.8,
+      "temperature": 21
+    },
+    "guest_bathroom": {
+      "friendly_name": "Guest Bathroom Sensor",
+      "humidity": 52.06,
+      "temperature": 24.26
+    },
+    "guest_bedroom": {
+      "friendly_name": "Guest Bedroom Sensor",
+      "humidity": 56.9,
+      "temperature": 23.53
+    },
+    "heatmiser_neostat_wifi_current_temperature": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 21.8
+    },
+    "heatmiser_neostat_wifi_current_temperature_2": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 23.3
+    },
+    "heatmiser_neostat_wifi_current_temperature_3": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 22
+    },
+    "heatmiser_neostat_wifi_current_temperature_4": {
+      "friendly_name": "Heatmiser neoStat WiFi Current",
+      "temperature": 21.7
+    },
+    "kitchen": {
+      "friendly_name": "Kitchen Sensor",
+      "humidity": 67.14,
+      "temperature": 21.09
+    },
+    "lounge": {
+      "friendly_name": "Lounge Sensor",
+      "humidity": 61.61,
+      "temperature": 21.52
+    },
+    "main_bathroom": {
+      "friendly_name": "Main Bathroom Sensor",
+      "humidity": 68.53,
+      "temperature": 20.62
+    },
+    "master_bedroom": {
+      "friendly_name": "Master Bedroom Sensor",
+      "humidity": 59.8,
+      "temperature": 22.16
+    },
+    "office": {
+      "friendly_name": "First Air Quality Monitor",
+      "humidity": 52,
+      "temperature": 23.75
+    },
+    "snug": {
+      "friendly_name": "Snug Sensor",
+      "humidity": 59.78,
+      "temperature": 21.65
+    }
+  },
+  "updated": "2026-10-04T02:54:31.404Z"
+}
